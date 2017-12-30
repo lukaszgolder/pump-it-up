@@ -1,0 +1,7 @@
+#RStudio Project
+.Rproj.user
+.Rhistory
+.RData
+
+# misc
+.DS_Store
